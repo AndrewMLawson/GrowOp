@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/GrowOp/static/css/main.160ef862.chunk.css",
+    "main.js": "/GrowOp/static/js/main.b5dd5b5c.chunk.js",
+    "main.js.map": "/GrowOp/static/js/main.b5dd5b5c.chunk.js.map",
+    "runtime-main.js": "/GrowOp/static/js/runtime-main.605926cf.js",
+    "runtime-main.js.map": "/GrowOp/static/js/runtime-main.605926cf.js.map",
+    "static/css/2.59625755.chunk.css": "/GrowOp/static/css/2.59625755.chunk.css",
+    "static/js/2.2e19c5a0.chunk.js": "/GrowOp/static/js/2.2e19c5a0.chunk.js",
+    "static/js/2.2e19c5a0.chunk.js.map": "/GrowOp/static/js/2.2e19c5a0.chunk.js.map",
+    "static/js/3.8b5a327d.chunk.js": "/GrowOp/static/js/3.8b5a327d.chunk.js",
+    "static/js/3.8b5a327d.chunk.js.map": "/GrowOp/static/js/3.8b5a327d.chunk.js.map",
+    "index.html": "/GrowOp/index.html",
+    "static/css/2.59625755.chunk.css.map": "/GrowOp/static/css/2.59625755.chunk.css.map",
+    "static/css/main.160ef862.chunk.css.map": "/GrowOp/static/css/main.160ef862.chunk.css.map",
+    "static/js/2.2e19c5a0.chunk.js.LICENSE.txt": "/GrowOp/static/js/2.2e19c5a0.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/GrowOp/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.605926cf.js",
+    "static/css/2.59625755.chunk.css",
+    "static/js/2.2e19c5a0.chunk.js",
+    "static/css/main.160ef862.chunk.css",
+    "static/js/main.b5dd5b5c.chunk.js"
+  ]
+}
