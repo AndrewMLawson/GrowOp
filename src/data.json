@@ -1,0 +1,40 @@
+{
+    "produceArray":[
+        {
+            "produceType":"banana",
+            "price":"$2.13/lb",
+            "demand": "124lbs",
+            "Buyer": "Sally's Co-op",
+            "Negotiable": "Yes"
+        }, 
+        {
+            "produceType":"apple",
+            "price":"$2.13/lb",
+            "demand": "124lbs",
+            "Buyer": "Sally's Co-op",
+            "Negotiable": "Yes"
+        },
+        {
+            "produceType":"potatoes",
+            "price":"$2.13/lb",
+            "demand": "124lbs",
+            "Buyer": "Sally's Co-op",
+            "Negotiable": "Yes"
+        },
+        {
+            "produceType":"banana",
+            "price":"$2.13/lb",
+            "demand": "124lbs",
+            "Buyer": "Ronx Co-op",
+            "Negotiable": "No"
+        },
+        {
+            "produceType":"Carrots",
+            "price":"$1.13/lb",
+            "demand": "10lbs",
+            "Buyer": "Sally's Co-op",
+            "Negotiable": "Yes"
+        }
+    ]
+
+}

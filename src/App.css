@@ -1,38 +1,46 @@
-.App {
-  text-align: center;
+.jumbotron-header {
+    background-color: #62BB96;
+    color: white;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.add-listing {
+    padding: 10px;
+    margin: 5px;
+    background-color: #62BB96;
+    color: white;
+    border-style: none;
+    border-radius: 5px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.pendingOffer {
+    padding: 15px;
+    margin: 10px;
+    border-style: solid;
+    border-color: #62BB96;
+    border-radius: 10px;
+    width: auto;
+    display: inline-block;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.pendingOffersHeader {
+    margin: 20px 10px 5px 10px;
+    font-size: 24pt;
 }
 
-.App-link {
-  color: #61dafb;
+.buttonAccept {
+    margin-right: 20px;
+    margin-left: 20px;
+    background-color: #ADD8E6;
+    border-style: none;
+    padding: 5px;
+    border-radius: 5px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.buttonDecline {
+    margin-right: 10px;
+    margin-left: 5px;
+    background-color: #FFCCCB;
+    border-style: none;
+    padding: 5px;
+    border-radius: 5px;
 }
